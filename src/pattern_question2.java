@@ -4,8 +4,6 @@
  * * *
  * * * *
  * * * * *    */
-
-
 import java.util.Scanner;
 public class pattern_question2 {
     public static void main(String[] args) {
